@@ -1,4 +1,4 @@
-#test azure boards
+#test Azure boards
 name: contoso-traders-app-deployment
 
 on:
